@@ -4,7 +4,8 @@ site_favicon: 'favicon.ico'
 copyright: Copyright &copy; 2019, Gluu, Inc.
 docs_dir: source
 repo_name: GluuFederation/docs-casa-prod
-repo_url: https://github.com/GluuFederation/docs-casa-prod/blob/3.1.6/docs
+repo_url: https://github.com/GluuFederation/docs-casa-prod/
+edit_uri: tree/3.1.6/docs
 theme: 
     name: 'material'
     pallette:
