@@ -6,10 +6,10 @@ To publish the application at a location other than `/casa`, do the following:
       
 1. Rename Casa's war file with the new path you want to use. For example, if you chose `/creds`, you would do the following:    
    
-    ```  
-      cd /opt/gluu/jetty/casa/webapps  
-      mv casa.war creds.war      
-    ```  
+  ```  
+    cd /opt/gluu/jetty/casa/webapps  
+    mv casa.war creds.war     
+  ```  
     
 1. Adjust Apache's .conf file:    
 
