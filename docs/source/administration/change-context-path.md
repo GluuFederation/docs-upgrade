@@ -10,6 +10,7 @@ To publish the application at a location other than `/casa`, do the following:
       cd /opt/gluu/jetty/casa/webapps  
       mv casa.war creds.war      
     ```  
+    
 1. Adjust Apache's .conf file:    
 
     - Locate the `https_gluu.conf` file. The exact location will vary depending on your distribution. In Ubuntu, for example, you can find it at `/etc/apache2/sites-available`
