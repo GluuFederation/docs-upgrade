@@ -1,4 +1,4 @@
-# Gluu Server Community Edition (CE) 4.0 Beta Documentation
+# HTML Alteration Test Page
 
 !!! Attention
     CE 4.0 is currently in open Beta. Questions and feedback can be directed to [Gluu support](https://support.gluu.org). View [known issues](https://ox.gluu.org/reports/read_issues.php). 
