@@ -1,5 +1,5 @@
 # Project information
-site_name: Gluu Server 4.0 Beta Docs
+site_name: Gluu Server 4.0 Test Environment Docs
 site_description: Documentation for Gluu Server Community Edition
 
 # Copyright
@@ -7,8 +7,8 @@ copyright: Copyright &copy; 2019, Gluu, Inc.
 
 # Repository
 docs_dir: source
-repo_name: GluuFederation/docs-ce-prod
-repo_url: https://github.com/GluuFederation/docs-ce-prod/
+repo_name: GluuFederation/docs-upgrade-prod
+repo_url: https://github.com/GluuFederation/docs-upgrade-prod
 edit_uri: edit/4.0/docs/source
 
 # Configuration
