@@ -162,7 +162,9 @@
                 {% if not "\x3ch1" in page.content %}
                   <h1>{{ page.title | default(config.site_name, true)}}</h1>
                 {% endif %}
-                <p style="background-color: #cfc ; padding: 10px; border: 1px solid green;"> CE 4.0 is currently in open Beta. Questions and feedback can be directed to <a href="https://support.gluu.org"> Gluu support</a>. View <a href="https://ox.gluu.org/reports/read_issues.php">known issues</a>. </p>
+                <div  style="background-color: #cfc ; padding: 10px; border: 1px solid green;">
+                <p> CE 4.0 is currently in open Beta. Questions and feedback can be directed to <a href="https://support.gluu.org"> Gluu support</a>. View <a href="https://ox.gluu.org/reports/read_issues.php">known issues</a>. </p>
+                </div>
                 {{ page.content }}
                 {% block source %}
                   {% if page and page.meta and page.meta.source %}
