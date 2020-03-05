@@ -1,13 +1,15 @@
-site_name: Gluu Casa Docs
+site_name: Gluu Casa Docs Upgrade Test
 site_description: Documentation for Gluu Casa
 site_favicon: 'favicon.ico'
 copyright: Copyright &copy; 2019, Gluu, Inc.
 docs_dir: source
-repo_name: GluuFederation/docs-casa-prod
-repo_url: https://github.com/GluuFederation/docs-casa-prod/
-edit_uri: tree/3.1.6/docs
+repo_name: GluuFederation/docs-upgrade-prod
+repo_url: https://github.com/GluuFederation/docs-upgrade-prod/
+edit_uri: tree/master/docs
 theme: 
     name: 'material'
+    features:
+        tabs: true
     pallette:
         primary: 'green'
         accent: 'green'
