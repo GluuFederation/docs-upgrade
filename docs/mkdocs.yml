@@ -1,5 +1,5 @@
 # Project information
-site_name: Gluu Server 4.1 Docs
+site_name: Gluu Server 4.1 Docs Testsite
 site_description: Documentation for Gluu Server
 
 # Copyright
@@ -7,8 +7,8 @@ copyright: Copyright &copy; 2020, Gluu, Inc.
 
 # Repository
 docs_dir: source
-repo_name: GluuFederation/docs-gluu-server-prod
-repo_url: https://github.com/GluuFederation/docs-gluu-server-prod/
+repo_name: GluuFederation/docs-upgrade-prod
+repo_url: https://github.com/GluuFederation/docs-upgrade-prod/
 edit_uri: edit/4.1/docs/source
 
 # Configuration
@@ -17,7 +17,8 @@ theme:
     palette:
         primary: 'green'
         accent: 'green'
-    logo: 'gluu.jpg'
+    icon:
+        logo: 'gluu.jpg'
     favicon: 'favicon.ico'
 extra:
     version: '4.1'
