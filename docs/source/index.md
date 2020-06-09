@@ -1,16 +1,20 @@
 # Gluu Server 4.1 Documentation Testsite
 
 
-=== "Tab 1"
-    Markdown **content**.
+!!! example "Example Tabs"
 
-    Multiple paragraphs.
+    === "Output"
+        === "Tab 1"
+            Markdown **content**.
 
-=== "Tab 2"
-    More Markdown **content**.
+            Multiple paragraphs.
 
-    - list item a
-    - list item b
+        === "Tab 2"
+            More Markdown **content**.
+
+            - list item a
+            - list item b
+
     
     
 ## Introduction
