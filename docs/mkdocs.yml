@@ -17,8 +17,7 @@ theme:
     palette:
         primary: 'green'
         accent: 'green'
-    icon:
-        logo: 'gluu.jpg'
+    logo: 'gluu.jpg'
     favicon: 'favicon.ico'
 extra:
     version: '4.1'
