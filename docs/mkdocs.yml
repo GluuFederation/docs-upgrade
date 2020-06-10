@@ -22,6 +22,8 @@ theme:
     favicon: 'favicon.ico'
 extra:
     version: '4.1'
+extra_css:
+  - css/tabs.css
 
 # Tracking
 google_analytics:
